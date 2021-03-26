@@ -1,0 +1,33 @@
+.chatInput{
+    position: fixed;
+    margin-left: auto;
+    bottom: 30px;
+    width: 70%;
+    
+}
+
+
+.chatInput > form {
+    
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+.chatInput > form > input{
+    width: 70%;
+    padding: 20px;
+   
+   
+}
+
+.chatInput > form > button{
+   background: black;
+   color: white;
+   width: 50px;
+   
+}
+
+
+
